@@ -361,7 +361,6 @@
         /* Desktop */
 
         body {
-            overflow-y: hidden;
             scale: 0.9;
         }
 
@@ -566,14 +565,10 @@ animation: firstblock 3s;
 
 
 
-
-
 h1,h3,h4,h5 {
  font-size: 447px;
  letter-spacing: -13px;
 }
-
-
 
 
 
@@ -687,8 +682,6 @@ margin-top: -50px;
 
 
 
-
-
 /* text animation */
 .bistro {
  width: 1152px;
@@ -722,9 +715,7 @@ margin-top: -50px;
 @media only screen and (min-width: 768px) and (max-width: 1024px) {
     /* Desktop */
 body {
-
     scale: 0.7;
-    margin-top: -300px;
 }
 
 /* firstblock */
@@ -904,7 +895,6 @@ margin-top: -50px;
     /* Desktop */
 body {
     scale: 0.4;
-    margin-top: -650px;
 }
 
 /* firstblock */
