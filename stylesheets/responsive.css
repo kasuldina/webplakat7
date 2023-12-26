@@ -1,0 +1,1266 @@
+    @media only screen and (min-width: 1920px) {
+            /* Desktop */
+
+
+        /* firstblock */
+
+        .firstblock {
+            display: flex;
+            animation: firstblock 3s;
+        }
+
+        @keyframes firstblock {
+            0% {margin-top: -100px;}
+            100% {margin-top: 0px;}
+        }
+
+            .pepper {
+                width: 1578px;
+                height: 954px;
+            }
+
+
+
+            h1,h3,h4,h5 {
+                font-size: 447px;
+                letter-spacing: -13px;
+            }
+
+
+
+
+
+            /* secondblock */
+
+
+            h2 {
+            font-size: 140px;
+            }
+
+            .greenline {
+                width: 1920px;
+                height: 107px;
+                margin-top: -200px;
+                overflow: hidden;
+            }
+        
+
+        .graf {
+            width: 1408px;
+            height: 322px;
+        }
+
+
+
+        /* third block */
+
+        .thirdblock {
+            width: 1920px;
+        }
+
+        .thirdphoto {
+            width: 1322px;
+            height: 1204px;
+            margin-top: -400px;
+            margin-left: 500px;
+        }
+
+        @keyframes carrot {
+            0% {margin-left: -100%}
+            100% {margin-left: 100%}
+        }
+
+        .graphics2 {
+            width: 1920px;
+            height: 1664px;
+            margin-top: -820px;
+        }
+
+        .greenblock {
+            width: 1152px;
+            height: 512px;
+            margin-left: 768px;
+            margin-top: -512px;
+        }
+
+        .holoport {
+            width: 997px;
+            height: 67px;
+        }
+
+        /* fourth block */
+
+        .fourthblock {
+            height: 896px;
+            margin-top: -2px;
+        }
+
+        .graphics3 {
+            width: 1152px;
+            height: 896px;
+        }
+
+        .pepper3 {
+            width: 768px;
+            height: 1086px;
+            margin-top: -190px;
+        }
+
+        @keyframes pepper3 {
+            0% {margin-top: -500px;}
+            50% {margin-top: 0px;}
+            100% {margin-top: -500px;}
+        }
+
+        @keyframes holoports {
+            0% {background-position: 1443px top;}
+            100% {background-position: -1443px top;}
+        }
+
+        @keyframes dostavka {
+            0% {margin-left: -100%;}
+            100% {margin-left: 100%}
+        }
+
+
+
+
+        /* fifth block */
+
+        .fifthblock {
+            width: 1920px;
+            height: 198px;
+        }
+
+        .footer {
+        font-size: 447px;
+        letter-spacing: -13px;
+        margin-top: -50px;
+        }
+
+
+
+
+
+            /* text animation */
+            .bistro {
+                width: 1152px;
+                height: 255px;
+                margin-top: -2760px;
+                margin-left: -770px;
+            }
+            
+            .horosho {
+                width: 1152px;
+                height: 255px;
+                margin-top: 130px;
+                margin-left: 770px;
+            }
+            
+            .vkusno {
+                width: 1152px;
+                height: 255px;
+                margin-top: 250px;
+                margin-left: -770px;
+            }
+
+            @keyframes bistro {
+                0% {margin-left: -1300px;}
+                100% {margin-left: 1300px;}
+            }
+
+
+
+
+
+
+        }
+
+    @media only screen and (min-width: 1440px) and (max-width: 1920px) {
+                   /* Desktop */
+
+
+        /* firstblock */
+
+        .firstblock {
+            display: flex;
+            animation: firstblock 3s;
+        }
+
+        @keyframes firstblock {
+            0% {margin-top: -100px;}
+            100% {margin-top: 0px;}
+        }
+
+            .pepper {
+                width: 1578px;
+                height: 954px;
+            }
+
+
+
+
+
+            h1,h3,h4,h5 {
+                font-size: 447px;
+                letter-spacing: -13px;
+            }
+
+
+
+
+
+            /* secondblock */
+
+
+            h2 {
+            font-size: 140px;
+            }
+
+            .greenline {
+                width: 1920px;
+                height: 107px;
+                margin-top: -200px;
+                overflow: hidden;
+            }
+        
+
+        .graf {
+            width: 1408px;
+            height: 322px;
+        }
+
+
+
+        /* third block */
+
+        .thirdblock {
+            width: 1920px;
+        }
+
+        .thirdphoto {
+            width: 1322px;
+            height: 1204px;
+            margin-top: -400px;
+            margin-left: 500px;
+        }
+
+        @keyframes carrot {
+            0% {margin-left: -100%}
+            100% {margin-left: 100%}
+        }
+
+        .graphics2 {
+            width: 1920px;
+            height: 1664px;
+            margin-top: -820px;
+        }
+
+        .greenblock {
+            width: 1152px;
+            height: 512px;
+            margin-left: 768px;
+            margin-top: -512px;
+        }
+
+        .holoport {
+            width: 997px;
+            height: 67px;
+        }
+
+        /* fourth block */
+
+        .fourthblock {
+            height: 896px;
+            margin-top: -2px;
+        }
+
+        .graphics3 {
+            width: 1152px;
+            height: 896px;
+        }
+
+        .pepper3 {
+            width: 768px;
+            height: 1086px;
+            margin-top: -190px;
+        }
+
+        @keyframes pepper3 {
+            0% {margin-top: -500px;}
+            50% {margin-top: 0px;}
+            100% {margin-top: -500px;}
+        }
+
+        @keyframes holoports {
+            0% {background-position: 1443px top;}
+            100% {background-position: -1443px top;}
+        }
+
+        @keyframes dostavka {
+            0% {margin-left: -100%;}
+            100% {margin-left: 100%}
+        }
+
+
+
+
+        /* fifth block */
+
+        .fifthblock {
+            width: 1920px;
+            height: 198px;
+        }
+
+        .footer {
+        font-size: 447px;
+        letter-spacing: -13px;
+        margin-top: -50px;
+        }
+
+
+
+
+
+            /* text animation */
+            .bistro {
+                width: 1152px;
+                height: 255px;
+                margin-top: -2760px;
+                margin-left: -770px;
+            }
+            
+            .horosho {
+                width: 1152px;
+                height: 255px;
+                margin-top: 130px;
+                margin-left: 770px;
+            }
+            
+            .vkusno {
+                width: 1152px;
+                height: 255px;
+                margin-top: 250px;
+                margin-left: -770px;
+            }
+
+            @keyframes bistro {
+                0% {margin-left: -1300px;}
+                100% {margin-left: 1300px;}
+            }
+
+
+
+
+
+
+    
+    }
+
+    @media only screen and (min-width: 1366px) and (max-width: 1440px) {
+        /* Desktop */
+
+        body {
+            overflow-y: hidden;
+            scale: 0.9;
+        }
+
+/* firstblock */
+
+
+
+.firstblock {
+ display: flex;
+ animation: firstblock 3s;
+}
+
+@keyframes firstblock {
+ 0% {margin-top: -400px;}
+ 100% {margin-top: -200px;}
+}
+
+ .pepper {
+     width: 1578px;
+     height: 954px;
+     margin-top: -200px;
+ }
+
+
+ h1,h3,h4,h5 {
+     font-size: 447px;
+     letter-spacing: -13px;
+ }
+
+
+
+
+
+ /* secondblock */
+
+
+ h2 {
+ font-size: 140px;
+ }
+
+ .greenline {
+     width: 1920px;
+     height: 107px;
+     margin-top: -200px;
+     overflow: hidden;
+ }
+
+
+.graf {
+ width: 1408px;
+ height: 322px;
+}
+
+
+
+/* third block */
+
+.thirdblock {
+ width: 1920px;
+}
+
+.thirdphoto {
+ width: 1322px;
+ height: 1204px;
+ margin-top: -400px;
+ margin-left: 500px;
+}
+
+@keyframes carrot {
+ 0% {margin-left: -100%}
+ 100% {margin-left: 100%}
+}
+
+.graphics2 {
+ width: 1920px;
+ height: 1664px;
+ margin-top: -820px;
+}
+
+.greenblock {
+ width: 1152px;
+ height: 512px;
+ margin-left: 768px;
+ margin-top: -512px;
+}
+
+.holoport {
+ width: 997px;
+ height: 67px;
+}
+
+/* fourth block */
+
+.fourthblock {
+ height: 896px;
+ margin-top: -2px;
+}
+
+.graphics3 {
+ width: 1152px;
+ height: 896px;
+}
+
+.pepper3 {
+ width: 768px;
+ height: 1086px;
+ margin-top: -190px;
+}
+
+@keyframes pepper3 {
+ 0% {margin-top: -500px;}
+ 50% {margin-top: 0px;}
+ 100% {margin-top: -500px;}
+}
+
+@keyframes holoports {
+ 0% {background-position: 1443px top;}
+ 100% {background-position: -1443px top;}
+}
+
+@keyframes dostavka {
+ 0% {margin-left: -100%;}
+ 100% {margin-left: 100%}
+}
+
+
+
+
+/* fifth block */
+
+.fifthblock {
+ width: 1920px;
+ height: 198px;
+}
+
+.footer {
+font-size: 447px;
+letter-spacing: -13px;
+margin-top: -50px;
+}
+
+
+
+
+
+ /* text animation */
+ .bistro {
+     width: 1152px;
+     height: 255px;
+     margin-top: -2760px;
+     margin-left: -770px;
+ }
+ 
+ .horosho {
+     width: 1152px;
+     height: 255px;
+     margin-top: 130px;
+     margin-left: 770px;
+ }
+ 
+ .vkusno {
+     width: 1152px;
+     height: 255px;
+     margin-top: 250px;
+     margin-left: -770px;
+ }
+
+ @keyframes bistro {
+     0% {margin-left: -1300px;}
+     100% {margin-left: 1300px;}
+ }
+
+
+
+
+
+
+
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1366px) {
+    /* Desktop */
+
+
+/* firstblock */
+
+.firstblock {
+display: flex;
+animation: firstblock 3s;
+}
+
+@keyframes firstblock {
+0% {margin-top: -400px;}
+100% {margin-top: -200px;}
+}
+
+.pepper {
+ width: 1578px;
+ height: 954px;
+ margin-top: -200px;
+}
+
+
+
+
+
+h1,h3,h4,h5 {
+ font-size: 447px;
+ letter-spacing: -13px;
+}
+
+
+
+
+
+/* secondblock */
+
+
+h2 {
+font-size: 140px;
+}
+
+.greenline {
+ width: 1920px;
+ height: 107px;
+ margin-top: -200px;
+ overflow: hidden;
+}
+
+
+.graf {
+width: 1408px;
+height: 322px;
+}
+
+
+
+/* third block */
+
+.thirdblock {
+width: 1920px;
+}
+
+.thirdphoto {
+width: 1322px;
+height: 1204px;
+margin-top: -400px;
+margin-left: 500px;
+}
+
+@keyframes carrot {
+0% {margin-left: -100%}
+100% {margin-left: 100%}
+}
+
+.graphics2 {
+width: 1920px;
+height: 1664px;
+margin-top: -820px;
+}
+
+.greenblock {
+width: 1152px;
+height: 512px;
+margin-left: 768px;
+margin-top: -512px;
+}
+
+.holoport {
+width: 997px;
+height: 67px;
+}
+
+/* fourth block */
+
+.fourthblock {
+height: 896px;
+margin-top: -2px;
+}
+
+.graphics3 {
+width: 1152px;
+height: 896px;
+}
+
+.pepper3 {
+width: 768px;
+height: 1086px;
+margin-top: -190px;
+}
+
+@keyframes pepper3 {
+0% {margin-top: -500px;}
+50% {margin-top: 0px;}
+100% {margin-top: -500px;}
+}
+
+@keyframes holoports {
+0% {background-position: 1443px top;}
+100% {background-position: -1443px top;}
+}
+
+@keyframes dostavka {
+0% {margin-left: -100%;}
+100% {margin-left: 100%}
+}
+
+
+
+
+/* fifth block */
+
+.fifthblock {
+width: 1920px;
+height: 198px;
+}
+
+.footer {
+font-size: 447px;
+letter-spacing: -13px;
+margin-top: -50px;
+}
+
+
+
+
+
+/* text animation */
+.bistro {
+ width: 1152px;
+ height: 255px;
+ margin-top: -2760px;
+ margin-left: -770px;
+}
+
+.horosho {
+ width: 1152px;
+ height: 255px;
+ margin-top: 130px;
+ margin-left: 770px;
+}
+
+.vkusno {
+ width: 1152px;
+ height: 255px;
+ margin-top: 250px;
+ margin-left: -770px;
+}
+
+@keyframes bistro {
+ 0% {margin-left: -1300px;}
+ 100% {margin-left: 1300px;}
+}
+
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+    /* Desktop */
+body {
+
+    scale: 0.7;
+    margin-top: -300px;
+}
+
+/* firstblock */
+
+.firstblock {
+display: flex;
+animation: firstblock 3s;
+}
+
+@keyframes firstblock {
+0% {margin-top: -100px;}
+100% {margin-top: 0px;}
+}
+
+.pepper {
+ width: 1578px;
+ height: 954px;
+ margin-top: -200px;
+}
+
+
+
+
+
+h1,h3,h4,h5 {
+ font-size: 447px;
+ letter-spacing: -13px;
+}
+
+
+
+
+
+/* secondblock */
+
+
+h2 {
+font-size: 140px;
+}
+
+.greenline {
+ width: 1920px;
+ height: 107px;
+ margin-top: -200px;
+ overflow: hidden;
+}
+
+
+.graf {
+width: 1408px;
+height: 322px;
+}
+
+
+
+/* third block */
+
+.thirdblock {
+width: 1920px;
+}
+
+.thirdphoto {
+width: 1322px;
+height: 1204px;
+margin-top: -400px;
+margin-left: 500px;
+}
+
+@keyframes carrot {
+0% {margin-left: -100%}
+100% {margin-left: 100%}
+}
+
+.graphics2 {
+width: 1920px;
+height: 1664px;
+margin-top: -820px;
+}
+
+.greenblock {
+width: 1152px;
+height: 512px;
+margin-left: 768px;
+margin-top: -512px;
+}
+
+.holoport {
+width: 997px;
+height: 67px;
+}
+
+/* fourth block */
+
+.fourthblock {
+height: 896px;
+margin-top: -2px;
+}
+
+.graphics3 {
+width: 1152px;
+height: 896px;
+}
+
+.pepper3 {
+width: 768px;
+height: 1086px;
+margin-top: -190px;
+}
+
+@keyframes pepper3 {
+0% {margin-top: -500px;}
+50% {margin-top: 0px;}
+100% {margin-top: -500px;}
+}
+
+@keyframes holoports {
+0% {background-position: 1443px top;}
+100% {background-position: -1443px top;}
+}
+
+@keyframes dostavka {
+0% {margin-left: -100%;}
+100% {margin-left: 100%}
+}
+
+
+
+
+/* fifth block */
+
+.fifthblock {
+width: 1920px;
+height: 198px;
+}
+
+.footer {
+font-size: 447px;
+letter-spacing: -13px;
+margin-top: -50px;
+}
+
+
+
+
+
+/* text animation */
+.bistro {
+ width: 1152px;
+ height: 255px;
+ margin-top: -2760px;
+ margin-left: -770px;
+}
+
+.horosho {
+ width: 1152px;
+ height: 255px;
+ margin-top: 130px;
+ margin-left: 770px;
+}
+
+.vkusno {
+ width: 1152px;
+ height: 255px;
+ margin-top: 250px;
+ margin-left: -770px;
+}
+
+@keyframes bistro {
+ 0% {margin-left: -1300px;}
+ 100% {margin-left: 1300px;}
+}
+
+
+}
+
+@media only screen and (min-width: 414px) and (max-width: 768px) {
+    /* Desktop */
+body {
+    scale: 0.4;
+    margin-top: -650px;
+}
+
+/* firstblock */
+
+.firstblock {
+display: flex;
+animation: firstblock 3s;
+}
+
+@keyframes firstblock {
+0% {margin-top: -100px;}
+100% {margin-top: 0px;}
+}
+
+.pepper {
+ width: 1578px;
+ height: 954px;
+ margin-top: -200px;
+}
+
+
+
+
+
+h1,h3,h4,h5 {
+ font-size: 447px;
+ letter-spacing: -13px;
+}
+
+
+
+
+
+/* secondblock */
+
+
+h2 {
+font-size: 140px;
+}
+
+.greenline {
+ width: 1920px;
+ height: 107px;
+ margin-top: -200px;
+ overflow: hidden;
+}
+
+
+.graf {
+width: 1408px;
+height: 322px;
+}
+
+
+
+/* third block */
+
+.thirdblock {
+width: 1920px;
+}
+
+.thirdphoto {
+width: 1322px;
+height: 1204px;
+margin-top: -400px;
+margin-left: 500px;
+}
+
+@keyframes carrot {
+0% {margin-left: -100%}
+100% {margin-left: 100%}
+}
+
+.graphics2 {
+width: 1920px;
+height: 1664px;
+margin-top: -820px;
+}
+
+.greenblock {
+width: 1152px;
+height: 512px;
+margin-left: 768px;
+margin-top: -512px;
+}
+
+.holoport {
+width: 997px;
+height: 67px;
+}
+
+/* fourth block */
+
+.fourthblock {
+height: 896px;
+margin-top: -2px;
+}
+
+.graphics3 {
+width: 1152px;
+height: 896px;
+}
+
+.pepper3 {
+width: 768px;
+height: 1086px;
+margin-top: -190px;
+}
+
+@keyframes pepper3 {
+0% {margin-top: -500px;}
+50% {margin-top: 0px;}
+100% {margin-top: -500px;}
+}
+
+@keyframes holoports {
+0% {background-position: 1443px top;}
+100% {background-position: -1443px top;}
+}
+
+@keyframes dostavka {
+0% {margin-left: -100%;}
+100% {margin-left: 100%}
+}
+
+
+
+
+/* fifth block */
+
+.fifthblock {
+width: 1920px;
+height: 198px;
+}
+
+.footer {
+font-size: 447px;
+letter-spacing: -13px;
+margin-top: -50px;
+}
+
+
+
+
+
+/* text animation */
+.bistro {
+ width: 1152px;
+ height: 255px;
+ margin-top: -2760px;
+ margin-left: -770px;
+}
+
+.horosho {
+ width: 1152px;
+ height: 255px;
+ margin-top: 130px;
+ margin-left: 770px;
+}
+
+.vkusno {
+ width: 1152px;
+ height: 255px;
+ margin-top: 250px;
+ margin-left: -770px;
+}
+
+@keyframes bistro {
+ 0% {margin-left: -1300px;}
+ 100% {margin-left: 1300px;}
+}
+
+
+}
+
+@media only screen and (max-width: 414px){
+    /* Desktop */
+
+body {
+    width: 320px;
+    overflow-y: hidden;
+    scale: 0.4;
+    margin-top: -650px;
+}
+
+/* firstblock */
+
+.firstblock {
+display: flex;
+animation: firstblock 3s;
+}
+
+@keyframes firstblock {
+0% {margin-top: -100px;}
+100% {margin-top: 0px;}
+}
+
+.pepper {
+ width: 1578px;
+ height: 954px;
+ margin-top: -200px;
+}
+
+
+
+
+
+h1,h3,h4,h5 {
+ font-size: 447px;
+ letter-spacing: -13px;
+}
+
+
+
+
+
+/* secondblock */
+
+
+h2 {
+font-size: 140px;
+}
+
+.greenline {
+ width: 1920px;
+ height: 107px;
+ margin-top: -200px;
+ overflow: hidden;
+}
+
+
+.graf {
+width: 1408px;
+height: 322px;
+}
+
+
+
+/* third block */
+
+.thirdblock {
+width: 1920px;
+}
+
+.thirdphoto {
+width: 1322px;
+height: 1204px;
+margin-top: -400px;
+margin-left: 500px;
+}
+
+@keyframes carrot {
+0% {margin-left: -100%}
+100% {margin-left: 100%}
+}
+
+.graphics2 {
+width: 1920px;
+height: 1664px;
+margin-top: -820px;
+}
+
+.greenblock {
+width: 1152px;
+height: 512px;
+margin-left: 768px;
+margin-top: -512px;
+}
+
+.holoport {
+width: 997px;
+height: 67px;
+}
+
+/* fourth block */
+
+.fourthblock {
+height: 896px;
+margin-top: -2px;
+}
+
+.graphics3 {
+width: 1152px;
+height: 896px;
+}
+
+.pepper3 {
+width: 768px;
+height: 1086px;
+margin-top: -190px;
+}
+
+@keyframes pepper3 {
+0% {margin-top: -500px;}
+50% {margin-top: 0px;}
+100% {margin-top: -500px;}
+}
+
+@keyframes holoports {
+0% {background-position: 1443px top;}
+100% {background-position: -1443px top;}
+}
+
+@keyframes dostavka {
+0% {margin-left: -100%;}
+100% {margin-left: 100%}
+}
+
+
+
+
+/* fifth block */
+
+.fifthblock {
+width: 1920px;
+height: 198px;
+}
+
+.footer {
+font-size: 447px;
+letter-spacing: -13px;
+margin-top: -50px;
+}
+
+
+
+
+
+/* text animation */
+.bistro {
+ width: 1152px;
+ height: 255px;
+ margin-top: -2760px;
+ margin-left: -770px;
+}
+
+.horosho {
+ width: 1152px;
+ height: 255px;
+ margin-top: 130px;
+ margin-left: 770px;
+}
+
+.vkusno {
+ width: 1152px;
+ height: 255px;
+ margin-top: 250px;
+ margin-left: -770px;
+}
+
+@keyframes bistro {
+ 0% {margin-left: -1300px;}
+ 100% {margin-left: 1300px;}
+}
+
+
+}
+
+

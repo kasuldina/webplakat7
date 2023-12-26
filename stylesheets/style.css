@@ -1,0 +1,211 @@
+
+body {
+    background-color: #AFAFAF;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow-x: hidden;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex: none;
+    margin: 0 auto;
+    position: relative;
+}
+
+
+
+/* firstblock */
+
+.firstblock {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pepper {
+    background: url("../img/pepper.png");
+    margin-top: -250px;
+
+}
+
+h1 {
+    font-family: "computer-says-no";
+    color: #FFF;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 300px;
+}
+
+/* secondblock */
+
+.greenline {
+    background-color: #5AEC00;
+}
+
+h2 {
+    color: #DF1100;
+font-family: "computer-says-no";
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: uppercase;
+white-space: nowrap;
+}
+
+.graphics {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: none;
+}
+
+.graf {
+    background: url("../img/graphics.png");
+}
+
+
+/* third block */
+
+.thirdblock {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.thirdphoto {
+    background: url("../img/carrot.png");
+    animation: carrot 3s infinite ease-in-out;
+}
+
+.thirdphoto:hover {
+    animation-play-state: paused;
+}
+
+.graphics2 {
+    background: url("../img/graphics2.png");
+}
+
+.greenblock {
+    background-color: #5AEC00;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.holoport {
+    background: url("../img/holoport.png");
+}
+
+
+
+
+
+/* fourth block */
+
+.fourthblock {
+    display: flex;
+    flex-direction: row;
+    overflow-y: hidden;
+}
+
+.graphics3 {
+    background: url("../img/graphics3.png");
+    animation: holoports 5s infinite linear;
+}
+
+
+.pepper3 {
+    background: url("../img/pepper2.png");
+}
+
+.pepper2 {
+    animation: pepper3 4s infinite ease-in-out;
+}
+
+
+
+
+/* fifth block */
+
+.fifthblock {
+    background-color: #5AEC00;
+    overflow: hidden;
+}
+
+.footer {
+    color: #DF1100;
+font-family: "computer-says-no";
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+white-space: nowrap;
+animation: dostavka 3s infinite linear;
+}
+
+
+
+
+/* text animation */
+
+.bistro {
+    overflow: hidden;
+    background-color: #DF1100;
+}
+
+h3 {
+    color: #FFF;
+    font-family: "computer-says-no";
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    white-space: nowrap;
+    animation: bistro 4s infinite linear;
+}
+
+.horosho {
+    overflow: hidden;
+    background-color: #DF1100;
+}
+
+h4 {
+    color: #FFF;
+    font-family: "computer-says-no";
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    white-space: nowrap;
+    animation: bistro 4s infinite linear;
+}
+
+.vkusno {
+    background-color: #DF1100;
+    overflow: hidden;
+}
+
+h5 {
+    color: #FFF;
+    font-family: "computer-says-no";
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    white-space: nowrap;
+    animation: bistro 4s infinite linear;
+}
+
+@keyframes bistro {
+    0% {margin-left: -1300px;}
+    100% {margin-left: 1300px;}
+}
+
+
+
+
+
+
